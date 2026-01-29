@@ -1,4 +1,4 @@
-# Pokoru-Game
+# Pokoru
 
 **Pokoru is a RPG game designed for modibility and playability in the same game...**
 
