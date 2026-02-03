@@ -5,5 +5,4 @@
 # How to install
 
 Currently you cannot install Pokoru...
-<>
-<Test>
+please visit this repo later...
